@@ -23,5 +23,6 @@ module.exports = {
   safelist: [
     {pattern: /ring-(st-blue|st-purple|st-orange)/},
     {pattern: /bg-(st-blue|st-purple|st-orange)/},
+    {pattern: /bg-(color-1|color-2|color-3)/},
   ],
 }

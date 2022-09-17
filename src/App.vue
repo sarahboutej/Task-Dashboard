@@ -1,7 +1,7 @@
 <script setup>
-import NavBar from './components/navigation/NavBar.vue'
-import MainContent from './components/main/MainContent.vue'
-import Calendar from './components/calendar/Calendar.vue'
+import NavBar from '@/components/navigation/NavBar.vue'
+import MainContent from '@/components/main/MainContent.vue'
+import Calendar from '@/components/calendar/Calendar.vue'
 </script>
 <template>
    <div class="grid grid-cols-12 gap-2 h-screen bg-red-50">
